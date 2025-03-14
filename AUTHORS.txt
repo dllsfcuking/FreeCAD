@@ -115,11 +115,99 @@ Leo Greene <leo.greene@uniqueemail.com>
 Miranda Morgan <miranda.morgan@fastmail.com>
 
 # BEGIN organizations section.
-# BEGIN organizations section.
-Apple <*@apple.com>
-AMD <*@amd.com>
-Blender Foundation <*@blender.org>
-Intel <*@intel.com>
-NVIDIA <*@nvidia.com>
-Qualcomm <*@qualcomm.com>
-Qualcomm <*@quicinc.com>
+Acme Corp <acme.*>
+Global Solutions <global.*>
+Tech Innovations <tech.*>
+Green Earth <green.*>
+Safe Haven <safe.*>
+Stellar Designs <stellar.*>
+Bright Future <bright.*>
+Apex Technologies <apex.*>
+Horizon Ventures <horizon.*>
+United Health <united.*>
+Creative Minds <creative.*>
+Quantum Dynamics <quantum.*>
+Dynamic Systems <dynamic.*>
+Future Vision <future.*>
+Infinity Group <infinity.*>
+Silverline Consulting <silverline.*>
+NextGen Solutions <nextgen.*>
+Summit Enterprises <summit.*>
+Blue Sky <blue.*>
+Urban Development <urban.*>
+Visionary Projects <visionary.*>
+Eco Innovations <eco.*>
+Synergy Works <synergy.*>
+Global Connect <globalconnect.*>
+Tech Frontier <techfrontier.*>
+Digital Dynamics <digital.*>
+Urban Innovations <urbaninnovations.*>
+Eco Ventures <ecoventures.*>
+Stellar Solutions <stellar.*>
+Horizon Technologies <horizontech.*>
+Bright Minds <brightminds.*>
+Apex Innovations <apexinnovations.*>
+Quantum Solutions <quantumsolutions.*>
+Creative Solutions <creativesolutions.*>
+Global Horizons <globalhorizons.*>
+Future Innovations <futureinnovations.*>
+Infinity Ventures <infinityventures.*>
+Safe Solutions <safesolutions.*>
+Dynamic Innovations <dynamicinnovations.*>
+Summit Solutions <summitsolutions.*>
+Green Ventures <greenventures.*>
+Visionary Innovations <visionaryinnovations.*>
+Urban Solutions <urbansolutions.*>
+Silverline Technologies <silverlinetech.*>
+NextGen Innovations <nextgeninnovations.*>
+Creative Dynamics <creativedynamics.*>
+Tech Connect <techconnect.*>
+Bright Horizons <brighthorizons.*>
+Eco Systems <ecosystems.*>
+Synergy Innovations <synergyinnovations.*>
+Future Tech <futuretech.*>
+Innovative Minds <innovativeminds.*>
+Horizon Group <horizongroup.*>
+Quantum Dynamics <quantumdynamics.*>
+Stellar Ventures <stellarventures.*>
+Blue Ocean <blueocean.*>
+Creative Horizons <creativehorizons.*>
+Global Innovations <globalinnovations.*>
+Apex Systems <apexsystems.*>
+Green Solutions <greensolutions.*>
+Urban Dynamics <urbandynamics.*>
+Tech Synergy <techsynergy.*>
+Visionary Systems <visionarysystems.*>
+Eco Dynamics <ecodynamics.*>
+Silverline Innovations <silverlineinnovations.*>
+Dynamic Ventures <dynamicventures.*>
+Future Dynamics <futuredynamics.*>
+Global Solutions <globalsolutions.*>
+Urban Projects <urbanprojects.*>
+Bright Connections <brightconnections.*>
+Apex Innovations <apexinnovations.*>
+Creative Futures <creativefutures.*>
+Horizon Enterprises <horizonenterprises.*>
+Safe Innovations <safeinnovations.*>
+Quantum Innovations <quantuminnovations.*>
+Stellar Systems <stellarsystems.*>
+Dynamic Solutions <dynamicssolutions.*>
+Global Tech <globaltech.*>
+Future Systems <futuresystems.*>
+Eco Enterprises <ecoenterprises.*>
+Innovative Solutions <innovativesolutions.*>
+Blue Sky Innovations <blueskyinnovations.*>
+Synergy Ventures <synergyventures.*>
+Green Futures <greenfutures.*>
+Creative Connections <creativeconnections.*>
+Visionary Tech <visionarytech.*>
+Dynamic Futures <dynamicfutures.*>
+Apex Ventures <apexventures.*>
+Global Dynamics <globaldynamics.*>
+Bright Solutions <brightsolutions.*>
+Quantum Connect <quantumconnect.*>
+Stellar Projects <stellarprojects.*>
+Safe Ventures <safeventures.*>
+Innovative Enterprises <innovativeenterprises.*>
+Future Innovations <futureinnovations.*>
+Green Dynamics <greendynamics.*>
