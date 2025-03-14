@@ -34,6 +34,8 @@ FreeCAD is ideal for engineers, architects, designers, and anyone interested in 
 
 ## Usage Examples 📊
 
+![image](https://github.com/user-attachments/assets/000accc8-1539-4215-be45-cb6bd97d7aea)
+
 
 # Documentation 📚
 Complete documentation is available
