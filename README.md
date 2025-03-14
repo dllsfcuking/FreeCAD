@@ -56,3 +56,9 @@ If you would like to contribute to the project, please review the [contribution 
 
 ## License 📜
 [LICENSE](/LICENSE)
+
+## AUTHORS 👨‍💻
+[AUTHORS](/AUTHORS.txt)
+
+## Made with care ❤️
+We appreciate your choice of our software!
