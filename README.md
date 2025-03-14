@@ -1,11 +1,11 @@
 # FREE FreeCAD 2023 2024 2025 🚀🎉
-FreeCAD is a powerful and multifunctional 3D modeling application designed for the design of objects of all types, from simple parts to complex mechanisms. This open-source software allows users to freely modify and adapt it to their needs.
+- FreeCAD is a powerful and multifunctional 3D modeling application designed for the design of objects of all types, from simple parts to complex mechanisms. This open-source software allows users to freely modify and adapt it to their needs.
 
-FreeCAD utilizes a parametric approach, enabling easy changes to the size and shape of objects simply by editing parameters. The program supports numerous file formats, such as STEP, IGES, STL, SVG, and others, ensuring compatibility with other CAD systems. FreeCAD includes various modules for specific tasks, such as architectural design, mechanical modeling, and creating projects for 3D printing, among others.
+- FreeCAD utilizes a parametric approach, enabling easy changes to the size and shape of objects simply by editing parameters. The program supports numerous file formats, such as STEP, IGES, STL, SVG, and others, ensuring compatibility with other CAD systems. FreeCAD includes various modules for specific tasks, such as architectural design, mechanical modeling, and creating projects for 3D printing, among others.
 
-Despite its powerful features, the interface is user-friendly, making it accessible to both beginners and experienced designers. FreeCAD is supported by an active community of developers and users, which ensures regular updates, improvements, and extensive documentation.
+- Despite its powerful features, the interface is user-friendly, making it accessible to both beginners and experienced designers. FreeCAD is supported by an active community of developers and users, which ensures regular updates, improvements, and extensive documentation.
 
-FreeCAD is ideal for engineers, architects, designers, and anyone interested in 3D modeling and design. It allows for the realization of bold ideas, enabling the creation of both individual projects and complex systems.
+- FreeCAD is ideal for engineers, architects, designers, and anyone interested in 3D modeling and design. It allows for the realization of bold ideas, enabling the creation of both individual projects and complex systems.
 
 ## ⚙️ System Requirements  
 | Component         | Minimum Requirements            | Recommended Requirements     |
